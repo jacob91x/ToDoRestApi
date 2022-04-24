@@ -14,7 +14,7 @@ Missed requirements:
 
 Tested in Postman.
 
-JSON sample of ToDo's: 
+JSON sample of ToDo's:
 {
     "ExpiryDate": "2022-04-24T23:30:00.000Z",
     "Title":"ToDo",
